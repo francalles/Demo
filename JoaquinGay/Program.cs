@@ -10,6 +10,8 @@ namespace JoaquinGay
         static void Main(string[] args)
         {
             Console.WriteLine("SOy gay");
+            Console.WriteLine("y kiko es un gordito");
+
         }
     }
 }
