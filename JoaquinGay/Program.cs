@@ -9,7 +9,7 @@ namespace JoaquinGay
     {
         static void Main(string[] args)
         {
-            
+            Console.WriteLine("SOy gay");
         }
     }
 }
